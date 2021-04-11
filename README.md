@@ -1,3 +1,3 @@
 # Plasmoxy
 
-<script type='text/javascript' src='https://ko-fi.com/widgets/CounterWidget.js'></script><script type='text/javascript'>counterwidget.init('O5O148PL3');counterwidget.draw();</script>
+<a href='https://ko-fi.com/O5O148PL3' target='_blank'><img height='36' style='border:0px;height:36px;' src='https://cdn.ko-fi.com/cdn/kofi2.png?v=2' border='0' alt='Buy Me a Coffee at ko-fi.com' /></a>
