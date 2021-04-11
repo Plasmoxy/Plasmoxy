@@ -1,6 +1,4 @@
-<div height="200" width="100%">
-  <img src="https://images.unsplash.com/photo-1536560035542-1326fab3a507" style="object-fit: cover;">
-</div>
+<img src="https://images.unsplash.com/photo-1536560035542-1326fab3a507" style="object-fit: cover;">
 
 I'm currently stuDYING at FIIT STU. I'm experienced mostly in **frontend development** and a bit of backend.
 Feel free to take a look at any of my repos, maybe you'll find something interesting.
