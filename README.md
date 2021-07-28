@@ -20,3 +20,5 @@ You can support me here:<br>
 - source code: [<img src="https://shields.io/badge/-Frontend-purple">](https://github.com/Plasmoxy/pmxy-gallery) [<img src="https://shields.io/badge/-Backend-grey">](https://github.com/Plasmoxy/pmxy-gallery-backend)
 
 <hr/>
+
+![Overall Stats](https://github-readme-stats.vercel.app/api?username=Plasmoxy&count_private=true&show_icons=true&hide=contribs)
