@@ -1,4 +1,4 @@
-<img src="https://images.unsplash.com/photo-1536560035542-1326fab3a507" style="object-fit: cover;" height="100">
+<img src="https://images.unsplash.com/photo-1536560035542-1326fab3a507" style="object-fit: cover;" height="100" width="100%">
 
 Currently studying at FIIT STU, working mostly with TypeScript, express, React and Flutter.
 
