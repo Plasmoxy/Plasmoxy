@@ -3,7 +3,7 @@
 Currently studying at FIIT STU, working mostly with TypeScript, express, React and Flutter.
 
 ![Overall Stats](https://github-readme-stats.vercel.app/api?username=Plasmoxy&count_private=true&show_icons=true&hide=contribs&theme=tokyonight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Plasmoxy&layout=compact&theme=tokyonight&langs_count=8)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Plasmoxy&layout=compact&theme=tokyonight&langs_count=10)
 
 
 <a href='https://ko-fi.com/O5O148PL3' target='_blank'><img height='36' style='border:0px;height:36px;' src='https://cdn.ko-fi.com/cdn/kofi2.png?v=2' border='0' alt='Buy Me a Coffee at ko-fi.com' /></a><br/> please... it is keeping me alive.
