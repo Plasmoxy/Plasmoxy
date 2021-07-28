@@ -3,8 +3,12 @@
 I'm currently studying at FIIT STU. I'm experienced mostly in **frontend development** and a bit of backend.
 Feel free to take a look at any of my repos, maybe you'll find something interesting.
 
-You can support me here:<br>
+asd                        | dd
+:-------------------------:|:-------------------------:
+![Overall Stats](https://github-readme-stats.vercel.app/api?username=Plasmoxy&count_private=true&show_icons=true&hide=contribs)  |  You can support me here:<br>
 <a href='https://ko-fi.com/O5O148PL3' target='_blank'><img height='36' style='border:0px;height:36px;' src='https://cdn.ko-fi.com/cdn/kofi2.png?v=2' border='0' alt='Buy Me a Coffee at ko-fi.com' /></a>
+
+
 
 **Projects showcase:**
 
@@ -21,4 +25,4 @@ You can support me here:<br>
 
 <hr/>
 
-![Overall Stats](https://github-readme-stats.vercel.app/api?username=Plasmoxy&count_private=true&show_icons=true&hide=contribs)
+
