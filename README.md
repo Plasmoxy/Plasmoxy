@@ -2,7 +2,7 @@
 
 Currently studying at FIIT STU, working mostly with TypeScript, express, React and Flutter.
 
-![Overall Stats](https://github-readme-stats.vercel.app/api?username=Plasmoxy&count_private=true&show_icons=true&hide=contribs)
+![Overall Stats](https://github-readme-stats.vercel.app/api?username=Plasmoxy&count_private=true&show_icons=true&hide=contribs&theme=dark)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Plasmoxy&layout=compact)
 
 
