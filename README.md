@@ -13,7 +13,7 @@ Currently studying at FIIT STU, working mostly with TypeScript, express, React a
 
 <hr/>
 
-<h3 style="color: #13d698;">Plasmoxy Gallery</h3>
+<h3 style="color: #13d698;">Plasmoxy Gallery (currently down, will be reactivated after my old VPS funreal)</h3>
 
 ![](https://shields.io/badge/-React-blueviolet)
 ![](https://shields.io/badge/-TypeScript-blue)
