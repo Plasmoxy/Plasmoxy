@@ -4,7 +4,7 @@
 <link href="https://fonts.googleapis.com/css2?family=Comfortaa:wght@300&display=swap" rel="stylesheet">
 
 <p align="center">
-  <h2 style="font-family: 'Comfortaa', cursive;">Welcome!</h2>
+  <span style="font-family: 'Comfortaa', cursive;">Welcome!</span>
   <img src="./undraw_my_code_snippets_lynx.svg" width="50%">
 </p>
 
