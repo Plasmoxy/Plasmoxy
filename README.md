@@ -1,3 +1,5 @@
+<img src="./undraw_my_code_snippets_lynx.svg">
+
 ![Visitor](https://visitor-badge.laobi.icu/badge?page_id=Plasmoxy.Plasmoxy) <a href="https://www.linkedin.com/in/plasmoxy/">![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)</a>
 
 Currently studying at FIIT STU, working mostly with TypeScript, express, React and Flutter.
