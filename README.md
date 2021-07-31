@@ -1,5 +1,5 @@
 
-<div style="width: 50%; margin: 0 auto;">
+<div style="width: 50%; margin: auto auto;">
   <img src="./undraw_my_code_snippets_lynx.svg">
 </div>
 
