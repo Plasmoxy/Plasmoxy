@@ -1,5 +1,10 @@
 
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Comfortaa:wght@300&display=swap" rel="stylesheet">
+
 <p align="center">
+  <h2 style="font-family: 'Comfortaa', cursive;">Welcome!</h2>
   <img src="./undraw_my_code_snippets_lynx.svg" width="50%">
 </p>
 
