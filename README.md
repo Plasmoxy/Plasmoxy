@@ -12,20 +12,3 @@ Yo.
 <a href='https://ko-fi.com/O5O148PL3' target='_blank'><img height='36' style='border:0px;height:36px;' src='https://cdn.ko-fi.com/cdn/kofi2.png?v=2' border='0' alt='Buy Me a Coffee at ko-fi.com' /></a><br/> please... it is keeping me alive.
 
 
-
-**Projects showcase:**
-
-<hr/>
-
-<h3 style="color: #13d698;">Plasmoxy Gallery (currently down, will be reactivated after my old VPS funreal)</h3>
-
-![](https://shields.io/badge/-React-blueviolet)
-![](https://shields.io/badge/-TypeScript-blue)
-![](https://shields.io/badge/-SASS-ff69b4) ![](https://shields.io/badge/-Node.js-yellow) 
-- live demo: [https://pmxy-gallery.surge.sh](https://pmxy-gallery.surge.sh)
-- gallery for **uploading and viewing photos** made in React with Express backend
-- source code: [<img src="https://shields.io/badge/-Frontend-purple">](https://github.com/Plasmoxy/pmxy-gallery) [<img src="https://shields.io/badge/-Backend-grey">](https://github.com/Plasmoxy/pmxy-gallery-backend)
-
-<hr/>
-
-
