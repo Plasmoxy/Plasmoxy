@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./undraw_my_code_snippets_lynx.svg" width="50%">
+  <img src="./youtube-video-gif.gif" width="50%">
 </p>
 
 ![Visitor](https://visitor-badge.laobi.icu/badge?page_id=Plasmoxy.Plasmoxy) <a href="https://www.linkedin.com/in/plasmoxy/">![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)</a>
