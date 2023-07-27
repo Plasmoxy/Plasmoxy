@@ -1,6 +1,6 @@
-<div align="center" style="border-radius: 15px;">
+<p align="center">
   <img src="./youtube-video-gif.gif" width="100%">
-</div>
+</p>
 
 ![Visitor](https://visitor-badge.laobi.icu/badge?page_id=Plasmoxy.Plasmoxy) <a href="https://www.linkedin.com/in/plasmoxy/">![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)</a>
 
