@@ -1,3 +1,16 @@
+```               
+ _____     ___ ___    __  _  __  __    
+/\ '__`\ /' __` __`\ /\ \/'\/\ \/\ \   
+\ \ \L\ \/\ \/\ \/\ \\/>  </\ \ \_\ \  
+ \ \ ,__/\ \_\ \_\ \_\/\_/\_\\/`____ \ 
+  \ \ \/  \/_/\/_/\/_/\//\/_/ `/___/> \
+   \ \_\                         /\___/
+    \/_/                         \/__/
+```
+
+- Master CS student (final year)
+- Web dev (TS, React, NestJS, DevOps and Data engineering)
+- NLP/DL - LLMs/SLMs, model compression and inference
 
 ![Visitor](https://visitor-badge.laobi.icu/badge?page_id=Plasmoxy.Plasmoxy) <a href="https://www.linkedin.com/in/plasmoxy/">![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)</a>
 
