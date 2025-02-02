@@ -10,11 +10,12 @@
 
 - Master CS student (final year)
 - Web dev skills:
-  - primarily TS, React, NestJS
-  - DevOps and Data engineering
+  - primarily **TypeScript, React frontend, NestJS backend** (4 years work experience)
+  - DevOps and Data engineering (GCP, Azure, BigQuery, SQL)
 - NLP/DL research and engineering
-  - LLMs and SLMs (small language models)
+  - **LLMs and SLMs** (small language models)
   - model compression and inference optimization (Master's thesis)
+- Low level proficiency = C++ and Rust (intermediate)
 
 ![Visitor](https://visitor-badge.laobi.icu/badge?page_id=Plasmoxy.Plasmoxy) <a href="https://www.linkedin.com/in/plasmoxy/">![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)</a>
 
