@@ -8,6 +8,8 @@
     \/_/                         \/__/
 ```
 
+---
+
 - Master CS student (final year)
 - Web dev skills:
   - primarily **TypeScript, React frontend, NestJS backend** (4 years work experience)
@@ -16,6 +18,8 @@
   - **LLMs and SLMs** (small language models)
   - model compression and inference optimization (Master's thesis)
 - Low level proficiency = C++ and Rust (intermediate)
+
+---
 
 ![Visitor](https://visitor-badge.laobi.icu/badge?page_id=Plasmoxy.Plasmoxy) <a href="https://www.linkedin.com/in/plasmoxy/">![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)</a>
 
