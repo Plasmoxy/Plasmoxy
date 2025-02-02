@@ -9,8 +9,12 @@
 ```
 
 - Master CS student (final year)
-- Web dev (TS, React, NestJS, DevOps and Data engineering)
-- NLP/DL - LLMs/SLMs, model compression and inference
+- Web dev skills:
+  - primarily TS, React, NestJS
+  - DevOps and Data engineering
+- NLP/DL research and engineering
+  - LLMs and SLMs (small language models)
+  - model compression and inference optimization (Master's thesis)
 
 ![Visitor](https://visitor-badge.laobi.icu/badge?page_id=Plasmoxy.Plasmoxy) <a href="https://www.linkedin.com/in/plasmoxy/">![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)</a>
 
