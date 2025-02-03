@@ -20,8 +20,10 @@
   - focus **LLMs and SLMs** (small language models)
   - model compression and inference optimization (Master's thesis)
   - interested mainly in practical LM application and implementation/engineering specifics
-- Low level proficiency = C++ and Rust (intermediate)
-- Language proficiency - Slovak (native) and Czech, English (~C1), German (B1), Japanese (basic)
+- Low level proficiency = C++ and Rust
+
+- Programming languages: TypeScript/JavaScript (full stack web), Python,  SQL, C++, Rust
+- Foreign languages: - Slovak (native) and Czech, English (~C1), German (B1), Japanese (~N5)
 
 
 ![Visitor](https://visitor-badge.laobi.icu/badge?page_id=Plasmoxy.Plasmoxy) <a href="https://www.linkedin.com/in/plasmoxy/">![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)</a>
