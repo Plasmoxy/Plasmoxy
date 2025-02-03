@@ -12,11 +12,14 @@
 
 - Master CS student (final year)
 - Web development (medior level):
-  - primarily **TypeScript, React frontend, NestJS backend** (4 years work experience)
+  - primarily **TypeScript, React frontend, NestJS backend** (3 years experience)
   - DevOps and Data engineering (GCP, Azure, BigQuery, SQL)
+- Mobile development
+  - Flutter (Android + iOS)
 - NLP/DL research and engineering
-  - **LLMs and SLMs** (small language models)
+  - focus **LLMs and SLMs** (small language models)
   - model compression and inference optimization (Master's thesis)
+  - interested mainly in practical LM application and implementation/engineering specifics
 - Low level proficiency = C++ and Rust (intermediate)
 
 
