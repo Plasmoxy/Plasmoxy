@@ -12,7 +12,7 @@
 
 - Master CS student (final year)
 - Web development (medior level):
-  - primarily **TypeScript, React frontend, NestJS backend** (3 years experience)
+  - primarily **TypeScript, React frontend, NestJS backend** (~4 years work experience)
   - DevOps and Data engineering (GCP, Azure, BigQuery, SQL)
 - Mobile development
   - Flutter (Android + iOS)
