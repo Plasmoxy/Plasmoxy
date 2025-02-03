@@ -11,7 +11,7 @@
 
 
 - Master CS student (final year)
-- Web dev skills:
+- Web development (medior level):
   - primarily **TypeScript, React frontend, NestJS backend** (4 years work experience)
   - DevOps and Data engineering (GCP, Azure, BigQuery, SQL)
 - NLP/DL research and engineering
