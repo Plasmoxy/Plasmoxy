@@ -21,7 +21,7 @@
   - model compression and inference optimization (Master's thesis)
   - interested mainly in practical LM application and implementation/engineering specifics
 - Low level proficiency = C++ and Rust (intermediate)
-
+- Language proficiency - Slovak (native) and Czech, English (~C1), German (B1), Japanese (basic)
 
 
 ![Visitor](https://visitor-badge.laobi.icu/badge?page_id=Plasmoxy.Plasmoxy) <a href="https://www.linkedin.com/in/plasmoxy/">![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)</a>
