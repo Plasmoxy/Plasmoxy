@@ -16,7 +16,7 @@
   - DevOps and Data engineering (Docker, GCP, Azure, BigQuery, SQL)
   - Mobile development in Flutter (Android + iOS)
 - NLP/DL research and engineering
-  - focus **LLMs and SLMs** (small language models)
+  - focus on **LLMs and SLMs** (small language models)
   - model compression and inference optimization (Master's thesis)
   - interested mainly in practical LM application and implementation/engineering specifics
 - Low level proficiency = C++ and Rust
