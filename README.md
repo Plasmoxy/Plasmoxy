@@ -13,7 +13,7 @@
 - Master CS student (final year)
 - Web and mobile development (medior level, ~4 years work experience):
   - primarily **TypeScript, React frontend, NestJS backend** 
-  - DevOps and Data engineering (Docker, Kuebernetes, GCP, Azure, BigQuery, SQL)
+  - DevOps and Data engineering (Docker, Kubernetes, GCP, Azure, BigQuery, SQL)
   - Mobile development in Flutter (Android + iOS)
 - NLP/DL research and engineering
   - focus on **LLMs and SLMs** (small language models)
